@@ -1,6 +1,6 @@
 
  <img src="https://github.com/George051191/George051191/blob/main/banner%20(2).png">
- 
+ <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
