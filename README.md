@@ -1,4 +1,4 @@
-<img src="https://github.com/George051191/George051191/blob/main/banner%20(4).png">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+!+My+name+is+George+,+and+I+am+a+frontend+developer)](https://git.io/typing-svg)
 
 # My Tools 🔨
 
